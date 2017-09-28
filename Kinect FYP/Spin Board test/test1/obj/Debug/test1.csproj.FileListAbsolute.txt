@@ -1,0 +1,44 @@
+c:\users\student\documents\visual studio 2012\Projects\test1\test1\bin\Debug\test1.exe.config
+c:\users\student\documents\visual studio 2012\Projects\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\test1\test1\obj\Debug\MainWindow.baml
+c:\users\student\documents\visual studio 2012\Projects\test1\test1\obj\Debug\MainWindow.g.cs
+c:\users\student\documents\visual studio 2012\Projects\test1\test1\obj\Debug\App.g.cs
+c:\users\student\documents\visual studio 2012\Projects\test1\test1\obj\Debug\test1_MarkupCompile.cache
+c:\users\student\documents\visual studio 2012\Projects\test1\test1\obj\Debug\test1.g.resources
+c:\users\student\documents\visual studio 2012\Projects\test1\test1\obj\Debug\test1.Properties.Resources.resources
+c:\users\student\documents\visual studio 2012\Projects\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2012\Projects\test1\test1\bin\Debug\test1.exe
+c:\users\student\documents\visual studio 2012\Projects\test1\test1\bin\Debug\test1.pdb
+c:\users\student\documents\visual studio 2012\Projects\test1\test1\obj\Debug\test1.exe
+c:\users\student\documents\visual studio 2012\Projects\test1\test1\obj\Debug\test1.pdb
+H:\test1\test1\bin\Debug\test1.exe.config
+H:\test1\test1\obj\Debug\test1.exe
+H:\test1\test1\obj\Debug\test1.pdb
+H:\test1\test1\bin\Debug\test1.exe
+H:\test1\test1\bin\Debug\test1.pdb
+H:\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+H:\test1\test1\obj\Debug\MainWindow.baml
+H:\test1\test1\obj\Debug\MainWindow.g.cs
+H:\test1\test1\obj\Debug\App.g.cs
+H:\test1\test1\obj\Debug\test1_MarkupCompile.cache
+H:\test1\test1\obj\Debug\test1.g.resources
+H:\test1\test1\obj\Debug\test1.Properties.Resources.resources
+H:\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+C:\Users\STUDENT\Desktop\test1\test1\bin\Debug\test1.exe.config
+C:\Users\STUDENT\Desktop\test1\test1\obj\Debug\test1.exe
+C:\Users\STUDENT\Desktop\test1\test1\obj\Debug\test1.pdb
+C:\Users\STUDENT\Desktop\test1\test1\bin\Debug\test1.exe
+C:\Users\STUDENT\Desktop\test1\test1\bin\Debug\test1.pdb
+C:\Users\STUDENT\Desktop\test1\test1\bin\Debug\Kinect.Toolbox.dll
+C:\Users\STUDENT\Desktop\test1\test1\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\STUDENT\Desktop\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\test1\test1\obj\Debug\MainWindow.baml
+C:\Users\STUDENT\Desktop\test1\test1\obj\Debug\MainWindow.g.cs
+C:\Users\STUDENT\Desktop\test1\test1\obj\Debug\App.g.cs
+C:\Users\STUDENT\Desktop\test1\test1\obj\Debug\test1_MarkupCompile.cache
+C:\Users\STUDENT\Desktop\test1\test1\obj\Debug\test1.g.resources
+C:\Users\STUDENT\Desktop\test1\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+C:\Users\STUDENT\Desktop\project\test1\test1\bin\Debug\test1.exe.config
+C:\Users\STUDENT\Desktop\project\test1\test1\obj\Debug\test1.exe
+C:\Users\STUDENT\Desktop\project\test1\test1\obj\Debug\test1.pdb

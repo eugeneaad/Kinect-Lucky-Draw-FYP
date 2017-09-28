@@ -1,0 +1,12 @@
+H:\test\Kinect Toolbox\Sources\bin\Debug\Kinect.Toolbox.dll
+H:\test\Kinect Toolbox\Sources\bin\Debug\Kinect.Toolbox.pdb
+H:\test\Kinect Toolbox\Sources\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+H:\test\Kinect Toolbox\Sources\obj\Debug\Kinect.Toolbox.csprojResolveAssemblyReference.cache
+H:\test\Kinect Toolbox\Sources\obj\Debug\Controls\PresenceControl.baml
+H:\test\Kinect Toolbox\Sources\obj\Debug\Controls\MouseImpostor.baml
+H:\test\Kinect Toolbox\Sources\obj\Debug\Controls\PresenceControl.g.cs
+H:\test\Kinect Toolbox\Sources\obj\Debug\Controls\MouseImpostor.g.cs
+H:\test\Kinect Toolbox\Sources\obj\Debug\Kinect.Toolbox_MarkupCompile.cache
+H:\test\Kinect Toolbox\Sources\obj\Debug\Kinect.Toolbox.g.resources
+H:\test\Kinect Toolbox\Sources\obj\Debug\Kinect.Toolbox.dll
+H:\test\Kinect Toolbox\Sources\obj\Debug\Kinect.Toolbox.pdb

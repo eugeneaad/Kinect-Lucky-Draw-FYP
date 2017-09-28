@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test1", "test1\test1.csproj", "{25253AB9-5D44-491E-8EB4-27340AAE1FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect.Toolbox", "..\Kinect Toolbox\Sources\Kinect.Toolbox.csproj", "{2C84CE43-CDAB-4541-A55A-7F849E8AC247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25253AB9-5D44-491E-8EB4-27340AAE1FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25253AB9-5D44-491E-8EB4-27340AAE1FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25253AB9-5D44-491E-8EB4-27340AAE1FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25253AB9-5D44-491E-8EB4-27340AAE1FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C84CE43-CDAB-4541-A55A-7F849E8AC247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C84CE43-CDAB-4541-A55A-7F849E8AC247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C84CE43-CDAB-4541-A55A-7F849E8AC247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C84CE43-CDAB-4541-A55A-7F849E8AC247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

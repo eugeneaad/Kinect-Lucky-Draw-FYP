@@ -1,0 +1,5 @@
+H:\test\Kinect Toolbox\Sources\Kinect.Toolbox.Voice\bin\Debug\Kinect.Toolbox.Voice.dll
+H:\test\Kinect Toolbox\Sources\Kinect.Toolbox.Voice\bin\Debug\Kinect.Toolbox.Voice.pdb
+H:\test\Kinect Toolbox\Sources\Kinect.Toolbox.Voice\obj\Debug\Kinect.Toolbox.Voice.csprojResolveAssemblyReference.cache
+H:\test\Kinect Toolbox\Sources\Kinect.Toolbox.Voice\obj\Debug\Kinect.Toolbox.Voice.dll
+H:\test\Kinect Toolbox\Sources\Kinect.Toolbox.Voice\obj\Debug\Kinect.Toolbox.Voice.pdb
